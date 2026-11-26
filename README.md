@@ -14,6 +14,7 @@ The lab was built in four stages:
 4. Service desk - set up Jira with request types, priorities and queues, then raise, resolve and document all ten cases.
 
 See [`LAB-GUIDE.md`](LAB-GUIDE.md) for a brief outline of each stage. 
+<br>
 
 ## Repository contents
 
@@ -26,6 +27,8 @@ See [`LAB-GUIDE.md`](LAB-GUIDE.md) for a brief outline of each stage.
 - `evidence/`: screenshot placeholders referenced by the tickets.
 
 The fictional staff roster and asset register were kept outside the published repository, so no personal data is included.
+
+<br>
 
 ## Skills practised
 
