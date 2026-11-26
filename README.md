@@ -4,8 +4,6 @@
 
 Cove Consult is an invented firm with two offices and seven departments. Its tenant contains 25 licensed users, dynamic department groups, group-based licensing, two shared mailboxes, MFA and self-service password reset, three Conditional Access policies, and one Intune-managed Windows 11 endpoint. A Jira service desk carries ten incident and request cases.
 
-<br>
-
 ## How the lab was carried out
 
 The lab was built in four stages:
@@ -16,8 +14,6 @@ The lab was built in four stages:
 4. Service desk - set up Jira with request types, priorities and queues, then raise, resolve and document all ten cases.
 
 See [`LAB-GUIDE.md`](LAB-GUIDE.md) for a brief outline of each stage. 
-
-<br>
 
 ## Repository contents
 
@@ -31,7 +27,6 @@ See [`LAB-GUIDE.md`](LAB-GUIDE.md) for a brief outline of each stage.
 
 The fictional staff roster and asset register were kept outside the published repository, so no personal data is included.
 
-<br>
 
 ## Skills practised
 
@@ -46,7 +41,7 @@ The fictional staff roster and asset register were kept outside the published re
 | Incident writing             | Symptoms, impact, troubleshooting including dead ends, root cause, resolution, verification, escalation | `tickets/`                                          |
 | Procedural documentation     | Repeatable joiner and leaver runbooks, five plain-language user guides                                  | `runbooks/`, `kb/`                                  |
 | Automation                   | Joiner provisioning and leaver closeout, including licence reclaim and mailbox conversion               | `scripts/`                                          |
-<br>
+
 
 ## What the ten cases demonstrate
 
