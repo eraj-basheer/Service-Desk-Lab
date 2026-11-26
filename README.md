@@ -4,6 +4,7 @@
 
 Cove Consult is an invented firm with two offices and seven departments. Its tenant contains 25 licensed users, dynamic department groups, group-based licensing, two shared mailboxes, MFA and self-service password reset, three Conditional Access policies, and one Intune-managed Windows 11 endpoint. A Jira service desk carries ten incident and request cases.
 
+
 ## How the lab was carried out
 
 The lab was built in four stages:
